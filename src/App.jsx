@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 
 function Sim(){
-  alert("Somos friendos agora 😊")
+  alert("Obrigado princesa")
 }
 
 function Nao(setPosition) {
@@ -19,7 +19,7 @@ function App() {
 
   return (
     <div className="App">
-      <h1>Quer amigar CMG?</h1>
+      <h1>Vc me desculpa por favor</h1>
       <div className="container">
         <button onClick={Sim}>Sim</button>
         <button
